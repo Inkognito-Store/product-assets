@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "id": "p1",
+      "id": "a1",
       "price": 99,
       "title": "Nobara",
       "description": "Elegance & Fury: The Rose with a Hammer",
@@ -9,31 +9,31 @@
       "category": "anime"
     },
     {
-      "id": "p2",
+      "id": "a2",
       "price": 99,
       "title": "Gojo Satoru",
-      "description": "The Honored One: A Sorcerer Beyond Infinity, Unmatched in Strength and Unrivaled in Styleufywuyfgryfug",
+      "description": "The Honored One: A Sorcerer Beyond Infinity, Unmatched in Strength and Unrivaled in Style",
       "image": "https://inkognito-store.github.io/product-assets/product-images/gojo-satoru-1.jpg",
       "category":"anime"
     },
     {
-      "id": "p3",
+      "id": "a3",
       "price": 99,
       "title": "Sukuna",
-      "description": "hkfjvfjhvbfhvfb",
+      "description": "The King of Curses: Ryomen Sukuna, the Malevolent Deity Who Rules with Fear and Unmatched Power",
       "image": "https://inkognito-store.github.io/product-assets/product-images/sukuna-hardi.jpg",
       "category":"anime"
     },
     {
-      "id": "p4",
+      "id": "a4",
       "price": 99,
       "title": "Izuku Midoriya",
-      "description": "hkfjvfjhvbfhvfFrom Quirkless to Symbol of Hope: The Unbreakable Will of Izuku Midoriyab",
+      "description": "From Quirkless to Symbol of Hope: The Unbreakable Will of Izuku Midoriyab",
       "image": "https://inkognito-store.github.io/product-assets/product-images/izuku-midoria.jpg",
       "category":"anime"
     },
     {
-      "id": "p5",
+      "id": "a5",
       "price": 99,
       "title": "Naruto",
       "description": "From Outcast to Hokage: The Unyielding Spirit of Naruto Uzumaki, the Hero Who Never Gave",
@@ -41,15 +41,15 @@
       "category":"anime"
     },
     {
-      "id": "p6",
+      "id": "a6",
       "price": 99,
       "title": "Naruto & Gamabunta",
-      "description": "hkfjvfjhvbThe Unbreakable Bond of Man and Toad: Naruto Uzumaki and Gamabunta, Warriors of Destinyfhvfb",
+      "description": "The Unbreakable Bond of Man and Toad: Naruto Uzumaki and Gamabunta, Warriors of Destinyfhvfb",
       "image":"https://inkognito-store.github.io/product-assets/product-images/naruto-gamabunta.jpg",
       "category":"anime"
     },
     {
-      "id": "p7",
+      "id": "a7",
       "price": 99,
       "title": "Limitless Charm Gojo",
       "description": "Limitless Charm and Unrivaled Power: Gojo Satoru, the Sorcerer Who Defies Infinity with Style",
