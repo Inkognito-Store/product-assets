@@ -1,0 +1,17 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "price": 99,
+      "title": "nobara"
+    },
+    {
+      "id": "p2",
+      "price": 99,
+      "title": "pain"
+    },
+    {
+      "title": "test"
+    }
+  ]
+}
