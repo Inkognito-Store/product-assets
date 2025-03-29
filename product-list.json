@@ -4,13 +4,15 @@
       "id": "p1",
       "price": 99,
       "title": "nobara",
-      "description": "jgwwfvhf"
+      "description": "jgwwfvhf",
+      "image": "https://inkognito-store.github.io/product-assets/product-images/product-images/nobara-1.jpeg"
     },
     {
       "id": "p2",
       "price": 99,
       "title": "pain",
-      "description": "gufywuyfgryfug"
+      "description": "gufywuyfgryfug",
+      "image": "https://inkognito-store.github.io/product-assets/product-images/product-images/gojo-satoru-1.jpg"
     },
     {
       "id": "p3",
