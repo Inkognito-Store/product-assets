@@ -55,6 +55,86 @@
       "description": "Limitless Charm and Unrivaled Power: Gojo Satoru, the Sorcerer Who Defies Infinity with Style",
       "image":"https://inkognito-store.github.io/product-assets/product-images/limitless-charm-gojo.jpg",
       "category":"anime"
+    },
+    {
+      "id": "a8",
+      "price": 99,
+      "title": "Batman",
+      "description": "The Dark Knight of Gotham: Bruce Wayne, the Fearless Vigilante Who Turns Shadows into Justice",
+      "image":"https://inkognito-store.github.io/product-assets/product-images/batman.png",
+      "category":"superheroes"
+    },
+    {
+      "id": "a9",
+      "price": 99,
+      "title": "Ultra Instinct Goku",
+      "description": "Transcending Limits: The Divine Awakening of Ultra Instinct Goku",
+      "image":"https://inkognito-store.github.io/product-assets/product-images/lightning-goku.jpg",
+      "category":"anime"
+    },
+    {
+      "id": "a10",
+      "price": 99,
+      "title": "Solo Leveling",
+      "description": "From the Weakest Hunter to the Monarch of Shadows: Sung Jin-Woo’s Legendary Rise in Solo Leveling",
+      "image":"https://inkognito-store.github.io/product-assets/product-images/solo-leveling.jpg",
+      "category":"anime"
+    },
+    {
+      "id": "a11",
+      "price": 99,
+      "title": "Toji Fushiguro",
+      "description": "The Sorcerer Killer: Toji Fushiguro, the Man Who Defied Cursed Energy with Pure Strength and Instinct",
+      "image":"https://inkognito-store.github.io/product-assets/product-images/toji.jpg",
+      "category":"anime"
+    },
+    {
+      "id": "a12",
+      "price": 99,
+      "title": "Mei Mei",
+      "description": "The Cursed Queen of Strategy: Mei Mei, the Fearless Sorcerer Who Turns Money and Strength into Power",
+      "image":"https://inkognito-store.github.io/product-assets/product-images/mei-mei.jpg",
+      "category":"anime"
+    },
+    {
+      "id": "a13",
+      "price": 99,
+      "title": "Zenitsu Agatsuma",
+      "description": "The Thunderous Flash of Courage: Zenitsu Agatsuma, the Fearful Warrior Who Strikes Like Lightning",
+      "image":"https://inkognito-store.github.io/product-assets/product-images/jenetsu.jpg",
+      "category":"anime"
+    },
+    {
+      "id": "a14",
+      "price": 99,
+      "title": "Baki Hanma",
+      "description": "The Unbreakable Fighter: Baki Hanma, the Prodigy Who Challenges Legends to Become the Strongest",
+      "image":"https://inkognito-store.github.io/product-assets/product-images/baki-hanma.jpg",
+      "category":"anime"
+    },
+    {
+      "id": "a15",
+      "price": 99,
+      "title": "Eren Yeager",
+      "description": "The Rebel Who Defied Fate: Eren Yeager, the Fallen Hero Who Became the World’s Greatest Threat",
+      "image":"https://inkognito-store.github.io/product-assets/product-images/eren-yeager.jpg",
+      "category":"anime"
+    },
+    {
+      "id": "a16",
+      "price": 99,
+      "title": "Anime Motivation",
+      "description": "Find A Way Not An Excuse",
+      "image":"https://inkognito-store.github.io/product-assets/product-images/motivaation.jpg",
+      "category":"anime"
+    },
+    {
+      "id": "a17",
+      "price": 99,
+      "title": "Super Man",
+      "description": "The Last Son of Krypton: Superman, the Symbol of Hope Who Carries the Weight of a World",
+      "image":"https://inkognito-store.github.io/product-assets/product-images/super-man.jpg",
+      "category":"superheroes"
     }
   ]
 }
