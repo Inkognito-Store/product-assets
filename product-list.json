@@ -141,7 +141,7 @@
       "price": 99,
       "title": "Anime Motivation",
       "description": "Find A Way Not An Excuse",
-      "image":"https://inkognito-store.github.io/product-assets/product-images/motivaation.jpg",
+      "image":"https://inkognito-store.github.io/product-assets/product-images/motivation.jpg",
       "category":"anime"
     },
     {
@@ -220,7 +220,7 @@
       "id": "a25",
       "dimensions":"A3 (29.7 cm × 42 cm / 11.7 in × 16.5 in)",
       "price": 99,
-      "title": "MD Dhoni",
+      "title": "MS Dhoni",
       "description": "Captain Cool: MS Dhoni, the Mastermind Who Led with Ice-Cold Composure and Unmatched Finishing Prowess",
       "image":"https://inkognito-store.github.io/product-assets/product-images/msd.jpg",
       "category":"sports"
